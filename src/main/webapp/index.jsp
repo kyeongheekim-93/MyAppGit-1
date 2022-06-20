@@ -10,10 +10,7 @@
 	<h1>첫번째 제목</h1>
 	<h1>두번째 제목</h1>
 	<h1>세번째 제목</h1>
-<<<<<<< HEAD
 	<h1>네번째 제목</h1>
-=======
 	<h1>다른 팀원이 네번째제목 추가</h1>
->>>>>>> branch 'master' of https://github.com/hwanyhee/MyAppGit.git
 </body>
 </html>
